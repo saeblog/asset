@@ -1,2 +1,2 @@
 # Silicon
-cs js silicon.createx.studio
+css silicon.createx.studio
